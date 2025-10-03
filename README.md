@@ -8,7 +8,7 @@
 
 ## 🧑‍💼 About Me  
 
-🎓 Bachelor of Engineering in Information Technology with **3+ years of professional experience** in software engineering and full stack development.  
+🎓 Bachelor of Engineering in Information Technology with **4+ years of professional experience** in software engineering and full stack development.  
 💻 Skilled in building **scalable web applications** using **JavaScript, TypeScript, Node.js, Next.js, React.js, Express.js, and Tailwind**.  
 🗄️ Strong expertise in databases including **MongoDB, PostgreSQL, MySQL, Redis, and Elasticsearch**, with proven success in optimizing query performance.  
 ⚙️ Experienced in designing and deploying **RESTful & GraphQL APIs**, implementing **Dockerized microservices**, and leveraging **CI/CD pipelines** for smooth delivery.  
