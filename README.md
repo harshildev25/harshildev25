@@ -4,6 +4,11 @@
 </p>
 🧑‍💼 About Me
 
-💻 Software Engineer with 4+ years of experience building scalable full-stack applications and distributed systems. Skilled in JavaScript, TypeScript, Python, SQL, and modern frameworks like Node.js, Next.js, React.js, and Express.js. Proficient in designing RESTful/GraphQL APIs, optimizing databases (MongoDB, PostgreSQL, MySQL, Redis, Elasticsearch), and deploying solutions using Docker, Vercel, Netlify, and CI/CD pipelines.
-
-🚀 Experienced across startups and tech firms, contributing to projects that improved API efficiency by 40%, reduced query load times by 60%, and streamlined deployment processes. Passionate about cloud-native development, serverless computing (Hono), and delivering impactful software solutions.
+🎓 Bachelor of Engineering in Information Technology with 4+ years of professional experience in software engineering and full stack development.
+💻 Skilled in building scalable web applications using JavaScript, TypeScript, Node.js, Next.js, React.js, Express.js, and Tailwind.
+🗄️ Strong expertise in databases including MongoDB, PostgreSQL, MySQL, Redis, and Elasticsearch, with proven success in optimizing query performance.
+⚙️ Experienced in designing and deploying RESTful & GraphQL APIs, implementing Dockerized microservices, and leveraging CI/CD pipelines for smooth delivery.
+🚀 Hands-on with serverless computing (Hono) and modern deployment platforms like Vercel and Netlify.
+📚 Passionate about solving complex problems, reducing system inefficiencies, and delivering high-performance cloud-native solutions.
+🤝 Thrive in agile, collaborative environments and enjoy mentoring, learning, and sharing knowledge.
+😄 Fun Fact: I love optimizing backend performance while crafting seamless frontend experiences!
