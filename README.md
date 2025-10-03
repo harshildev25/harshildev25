@@ -84,28 +84,4 @@
 
 ---
 
-## 📌 Projects  
-
-**Facial Recognition-Based Smart Attendance System**  
-- Developed an AI-driven attendance system with 96%+ recognition accuracy.  
-- Automated attendance workflows, reducing manual errors by 80%.  
-
----
-
-## 🌐 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/smitprajapati1607/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/smit1607)  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smit1607&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smit1607&theme=radical" width="48%" />
-</p>
-
----
-
 ⭐ Thanks for visiting my profile!  
